@@ -1,0 +1,68 @@
+@import url(../css/global.css);
+main{
+    background-image: url('../img/contact-bkg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.about-body{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+.about-text-container{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-img img{
+    height: 510px;
+    width: 100%;
+    border-radius: 40px;
+}
+.about-text p{
+    font-size: var(--normal-font);
+    text-align: justify;
+    letter-spacing: 1px;
+    font-weight: 500;
+    line-height: 25px;
+    margin-top: 20px;
+}
+.about-text span{
+    font-size: var(--large-font);
+    font-style: italic;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: 'Pacifico', cursive;
+}
+.about-text b{
+    color: var(--color-red);
+    font-weight: 700;
+}
+.about-text h1{
+    font-size: 5rem;
+    color: var(--color-red);
+    letter-spacing: 3px;
+    font-family: 'Pacifico', cursive;
+}
+@media screen and (max-width: 768px){
+    .about-body{
+        flex-direction: column;
+        margin: auto;
+        text-align: center;
+    }
+    .about-img{
+        width: 97%;
+        margin: 10px auto;
+    }
+    .about-text-container{
+        width: 97%;
+        margin: auto;
+    }
+    .about-img img{
+        height: 300px;
+    }
+}

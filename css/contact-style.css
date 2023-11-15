@@ -1,0 +1,73 @@
+@import url(../css/global.css);
+.contact-body{
+    background-image: url('../img/contact-bkg.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.contact-body h1{
+    text-align: center;
+    font-size: 4.5rem;
+    color: var(--color-red);
+    letter-spacing: 3px;
+    font-family: 'Pacifico', cursive;
+    padding: 0 3px;
+}
+.contactus-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 4% 4% 0;
+    text-align: center;
+  }
+  .contactus-box {
+    width: 350px;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .contactus-box i {
+    color: var(--color-red);
+    font-size: 3.6rem;
+  }
+  .contactus-text .fab {
+    font-size: 2.4rem;
+    padding-right: 10px;
+  }
+  .contactus-text h3 {
+    color: #000;
+    padding-top: 10px;
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  .contactus-text {
+    word-wrap: break-word;
+  }
+  .contactus-text p,
+  .contactus-text p a {
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    font-size: 2.1rem;
+  }
+  .contactus-text a:hover {
+    text-decoration: underline;
+  }
+  .form-map {
+    padding: 0 4%;
+    width: 100%;
+    margin: auto;
+  }
+  .contactus-map {
+    margin: 0 auto 30px;
+  }
+  @media (max-width: 900px) {
+    .sub-header h1 br {
+      display: block;
+    }
+  }
+  @media (max-width: 400px) {
+    .contactus-box {
+      width: 310px;
+    }
+    .contactus-text a {
+      font-size: 1rem;
+    }
+  }
