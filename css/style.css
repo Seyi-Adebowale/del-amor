@@ -241,12 +241,13 @@
   align-items: center;
   background-color: var(--color-red);
   padding: 50px 0;
+  margin: 20px 0;
 }
 
 .advert-point {
   text-align: center;
   color: var(--color-white);
-  border-bottom: 20px;
+  margin-bottom: 20px;
   
 }
 .advert-point p{
