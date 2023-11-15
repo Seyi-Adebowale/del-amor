@@ -246,6 +246,7 @@
 .advert-point {
   text-align: center;
   color: var(--color-white);
+  border-bottom: 20px;
   
 }
 .advert-point p{
