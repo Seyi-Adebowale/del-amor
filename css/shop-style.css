@@ -3,11 +3,12 @@ main {
   background-image: url("../img/contact-bkg.jpg");
   background-position: center;
   background-size: cover;
+  padding-top: 30px;
 }
 .our-creations {
   position: relative;
   margin: 6%;
-  padding-top: 30px;
+  
 }
 .creations-grid {
   display: grid;
