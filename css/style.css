@@ -5,13 +5,6 @@
   position: relative;
   
 }
-.occasions h3 {
-  text-align: center;
-  font-size: var(--normal-font);
-  color: var(--color-red);
-  font-weight: 700;
-  padding: 10px;
-}
 .occasions-container {
   display: flex;
   flex-wrap: wrap;
@@ -82,7 +75,7 @@
 .occasions-container__box p {
   color: var(--color-black);
   font-size: var(--normal-font);
-  font-weight: 700;
+  /* font-weight: 700; */
   letter-spacing: 1px;
 }
 .carousel {
@@ -239,7 +232,9 @@
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  background-color: var(--color-red);
+  background-image: url(../img/advert-bkg2.avif);
+  background-position: center;
+  background-size: cover;
   padding: 50px 0;
   margin: 20px 0;
 }
