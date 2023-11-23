@@ -7,45 +7,6 @@ function hideMenu() {
   navLinks.style.left = "-800px";
 }
 
-$(document).ready(function () {
-  var slidesToShow = 7; // Default value
-
-  $(".occasions-container").slick({
-    slidesToShow: slidesToShow,
-    slidesToScroll: 2,
-    // variableWidth: true,
-    // centerMode: false,
-    infinite: false, 
-    easing: 'easeInOutCubic',
-    initialSlide: 0, 
-    responsive: [
-      {
-        breakpoint: 900,
-        settings: {
-          slidesToShow: 4,
-        },
-      },
-
-      {
-        breakpoint: 768, 
-        settings: {
-          slidesToShow: 3,
-        },
-      },
-      
-      {
-        breakpoint: 480,
-        settings: {
-          slidesToShow: 2,
-        },
-      },
-
-    ],
-    prevArrow: $(".custom-prev"),
-    nextArrow: $(".custom-next")
-  });
-});
-
 const nav = document.querySelectorAll(".header__nav ul li");
 for (let i = 0; i < nav.length; i++) {
   if (
@@ -72,3 +33,41 @@ for (let i = 0; i < nav.length; i++) {
     nav[i].classList.remove("selected");
   }
 }
+
+$(document).ready(function () {
+  var slidesToShow = 7; // Default value
+
+  $(".occasions-container").slick({
+    slidesToShow: slidesToShow,
+    slidesToScroll: 2,
+    // variableWidth: true,
+    // centerMode: false,
+    infinite: false,
+    easing: "easeInOutCubic",
+    initialSlide: 0,
+    responsive: [
+      {
+        breakpoint: 900,
+        settings: {
+          slidesToShow: 4,
+        },
+      },
+
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 3,
+        },
+      },
+
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 2,
+        },
+      },
+    ],
+    prevArrow: $(".custom-prev"),
+    nextArrow: $(".custom-next"),
+  });
+});

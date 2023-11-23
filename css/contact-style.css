@@ -3,6 +3,7 @@
     background-image: url('../img/contact-bkg.jpg');
     background-position: center;
     background-size: cover;
+    padding-top: 30px;
 }
 .contact-body h1{
     text-align: center;
@@ -37,6 +38,7 @@
     padding-top: 10px;
     font-size: 3rem;
     font-weight: 700;
+    letter-spacing: 2px;
   }
   .contactus-text {
     word-wrap: break-word;
