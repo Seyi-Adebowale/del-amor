@@ -35,14 +35,17 @@ for (let i = 0; i < nav.length; i++) {
 }
 
 $(document).ready(function () {
-  var slidesToShow = 7; // Default value
 
   $(".occasions-container").slick({
-    slidesToShow: slidesToShow,
-    slidesToScroll: 2,
+    slidesToShow: 7,
+    slidesToScroll: 1,
+    autoplay: true,
+      autoplaySpeed: 1000, // Adjust the speed in milliseconds
+      infinite: true,
+      arrows: false,
     // variableWidth: true,
     // centerMode: false,
-    infinite: false,
+    // infinite: false,
     easing: "easeInOutCubic",
     initialSlide: 0,
     responsive: [
