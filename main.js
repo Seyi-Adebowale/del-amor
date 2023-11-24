@@ -46,7 +46,7 @@ $(document).ready(function () {
     // variableWidth: true,
     // centerMode: false,
     // infinite: false,
-    easing: "easeInOutCubic",
+    cssEase: 'ease-in-out',
     initialSlide: 0,
     responsive: [
       {
