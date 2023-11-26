@@ -14,6 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
       getDataAndPopulateGallery(data, categoryToFetch);
 
       document.getElementById("gallery").style.display = "block";
+
+      document.querySelector(".footer").style.visibility = "visible";
     })
     .catch((error) => {
       console.error("Error loading data:", error);

@@ -7,8 +7,7 @@ main {
 }
 .our-creations {
   position: relative;
-  margin: 6%;
-  
+  margin: 6%; 
 }
 .creations-grid {
   display: grid;
@@ -60,7 +59,6 @@ main {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  opacity: 1;
 }
 .gallery-item {
   margin: 10px;
@@ -95,9 +93,6 @@ main {
 .category-buttons button.active {
   color: var(--color-red);
   border-color: var(--color-red);
-}
-div.gallery-img {
-  /* border: 1px solid #ccc; */
 }
 div.gallery-img:hover {
   border: 1px solid #777;
@@ -155,7 +150,6 @@ select {
   background: transparent;
   padding: 8px;
   border-radius: 8px;
-  /* margin-bottom: 50px; */
 }
 select option {
   color: var(--color-red);
@@ -164,6 +158,9 @@ select option {
 select:focus {
   outline: none;
   box-shadow: 0 0 5px var(--color-red);
+}
+.footer{
+  visibility: hidden;
 }
 @media screen and (min-width: 768px) {
   .category-select {

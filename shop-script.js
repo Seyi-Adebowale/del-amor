@@ -75,8 +75,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Show the gallery after ShuffleJS is initialized
     document.getElementById("gallery").style.display = "block";
+    document.querySelector(".footer").style.visibility = "visible";
   }
-
+  
   // Lazy loading function
   var images = document.querySelectorAll(".lazy-load-image");
 
