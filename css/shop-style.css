@@ -51,11 +51,16 @@ main {
 .creations-link {
   justify-self: end;
 }
+.ctg-body h2{
+  color: var(--color-black);
+  text-align: center;
+  font-size: 2.4rem;
+  margin: 10px 0 20px;
+}
 .gallery {
   display: flex;
   flex-wrap: wrap;
   opacity: 1;
-  
 }
 .gallery-item {
   margin: 10px;
@@ -92,7 +97,7 @@ main {
   border-color: var(--color-red);
 }
 div.gallery-img {
-  border: 1px solid #ccc;
+  /* border: 1px solid #ccc; */
 }
 div.gallery-img:hover {
   border: 1px solid #777;
@@ -103,11 +108,17 @@ div.gallery-img img {
   z-index: 99;
 }
 div.desc {
-  padding: 15px 0px;
+  padding: 5px 0px;
   text-align: center;
-  font-size: 13px;
+  font-size: 1.6rem;
   font-weight: bold;
   color: var(--color-black);
+}
+div.price{
+  color: var(--color-red);
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: bold;
 }
 .gallery-container {
   display: flex;
@@ -117,6 +128,7 @@ div.desc {
 .gallery-box {
   padding: 0 6px;
   width: 300px;
+  border: 1px solid #ccc;
   margin: 0px auto 20px;
 }
 .category-select {
@@ -133,7 +145,7 @@ div.desc {
 }
 .category-select select {
   width: 200px;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   display: block;
   font-size: 2rem;
 }
@@ -143,6 +155,7 @@ select {
   background: transparent;
   padding: 8px;
   border-radius: 8px;
+  /* margin-bottom: 50px; */
 }
 select option {
   color: var(--color-red);

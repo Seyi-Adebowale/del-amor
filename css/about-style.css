@@ -11,12 +11,18 @@ main{
     justify-content: space-between;
     flex-wrap: wrap;
     margin: auto;
+    text-align: center;
+    align-items: center;
 }
 .about-text-container{
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
+}
+.about-img{
+    margin: auto;
 }
 .about-img img{
     height: 510px;

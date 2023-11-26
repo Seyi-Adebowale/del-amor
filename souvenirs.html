@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>About - Del'amor</title>
+    <title>Shop - Del'amor</title>
     <script
       src="https://kit.fontawesome.com/6b219ab309.js"
       crossorigin="anonymous"
@@ -14,16 +14,8 @@
       href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,400;0,500;0,700;1,400&display=swap"
       rel="stylesheet"
     />
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-    />
-    <script
-      defer
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-    ></script>
     <link rel="shortcut icon" href="img/logo.png" type="image/png" />
-    <link rel="stylesheet" href="./css/about-style.css" />
+    <link rel="stylesheet" href="./css/shop-style.css" />
   </head>
   <body>
     <header>
@@ -31,7 +23,7 @@
         <div class="hamburger-icon nav-icon" id="hamburger">
           <i class="fas fa-bars" onclick="showMenu()"></i>
         </div>
-        
+
         <nav class="header__nav">
           <div class="close-icon nav-icon" id="close">
             <i class="fas fa-times" onclick="hideMenu()"></i>
@@ -55,38 +47,37 @@
     </header>
 
     <main>
-      <div class="about-body">
-        <div class="about-img">
-          <picture>
-            <source media="(max-width: 767px)" srcset="img/about-img2.jpg" />
-            <source media="(min-width: 768px)" srcset="img/about-img.png" />
-            <img src="img/about-img.webp" alt="Description of the image" />
-          </picture>
-        </div>
-        <div class="about-text-container">
-          <div class="about-text">
-            <h1>About Del'amor</h1>
-            <span>‘From love and beyond</span>
-            <p>
-              At Del’amor, our <b>mission</b> is to spread joy through
-              personalized gifts—unique, high-quality creations tailored to your
-              preferences and occasions. Focused on fostering connections, our
-              commitment includes delivering exceptional service and innovative
-              gifting experiences. As your go-to destination for heartfelt
-              gifts, our mission is to make every celebration special and
-              unforgettable, prioritizing creativity, convenience, and customer
-              satisfaction. <br /><br />
-              At Del’amor our <b>vision</b> is to be the ultimate source of
-              gifting inspiration, globally recognized for setting new standards
-              in creativity, convenience, and customer delight. As we strive
-              towards this goal, we measure our success by the smiles we bring
-              to our customers' faces and the lasting connections we help
-              create, making every moment a gift to remember.
-            </p>
+      <div class="ctg-body">
+        <h2>SOUVENIRS</h2>
+        <div class="filter-buttons">
+          <div class="category-select">
+            <label for="category-select">Select occasion:</label>
+            <select id="category-select">
+              <option value="Birthdays">Birthdays</option>
+              <option value="Burials">Burials</option>
+              <option value="Naming">Naming / Child Dedication</option>
+              <option value="Graduation">Graduation</option>
+            </select>
+          </div>
+          <div class="category-buttons">
+            <button class="gallery-btn active" data-group="Birthdays">
+              Birthdays
+            </button>
+            <button class="gallery-btn" data-group="Burials">Burials</button>
+            <button class="gallery-btn" data-group="Naming">
+              Naming / Child Dedication
+            </button>
+            <button class="gallery-btn" data-group="Graduation">Graduation</button>
           </div>
         </div>
-      </div>
 
+        <div id="gallery">
+          <div class="gallery-item" data-groups='["Birthdays"]'></div>
+          <div class="gallery-item" data-groups='["Burials"]'></div>
+          <div class="gallery-item" data-groups='["Naming"]'></div>
+          <div class="gallery-item" data-groups='["Graduation"]'></div>
+        </div>
+      </div>
       <section class="footer">
         <div class="contact-icons">
           <a href="#"><i class="fas fa-phone-alt"></i></a>
@@ -100,6 +91,8 @@
       </section>
     </main>
 
+    <script src="shuffle.min.js"></script>
+    <script src="shop-script.js"></script>
     <script src="main.js"></script>
   </body>
 </html>

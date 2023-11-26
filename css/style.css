@@ -1,6 +1,6 @@
 @import url(../css/global.css);
 .occasions {
-  margin: 5px 0 20px;
+  /* margin: 35px 0 10px; */
   width: 100%;
   position: relative;
 }
@@ -13,7 +13,7 @@
 }
 .occasions-container__box {
   display: flex !important;
-  margin: 4px 9px;
+  margin: 10px 9px;
   flex-direction: column;
   align-items: center;
   text-align: center;

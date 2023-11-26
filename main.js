@@ -8,31 +8,42 @@ function hideMenu() {
 }
 
 const nav = document.querySelectorAll(".header__nav ul li");
+
 for (let i = 0; i < nav.length; i++) {
-  if (
-    nav[i].innerHTML.includes("Home") &&
-    location.pathname.includes("index")
-  ) {
-    nav[i].classList.add("selected");
-  } else if (
-    nav[i].innerHTML.includes("Shop") &&
-    location.pathname.includes("shop")
-  ) {
-    nav[i].classList.add("selected");
-  } else if (
-    nav[i].innerHTML.includes("About") &&
-    location.pathname.includes("about")
-  ) {
-    nav[i].classList.add("selected");
-  } else if (
-    nav[i].innerHTML.includes("Contact") &&
-    location.pathname.includes("contact")
-  ) {
+  const anchor = nav[i].querySelector("a");
+  const pageName = anchor.textContent.trim().toLowerCase();
+  const pathName = location.pathname.toLowerCase();
+
+  console.log("Page Name:", pageName);
+  console.log("Path Name:", pathName);
+
+  // Keywords related to shop pages
+  const shopPageKeywords = ["shop", "personalized", "male", "female", "children", "cooperate", "festive", "couple", "souvenirs", "naughty"];
+
+  // Check if the current link is the "Shop" link
+  const isShopLink = pageName === "shop";
+
+  // Check if any part of the path contains any shop-related keywords
+  const isShopPage = shopPageKeywords.some(keyword => pathName.includes(`/${keyword}`));
+
+  // Special condition for the "Home" page (index.html)
+  const isHomePage = pageName === "home" && pathName.endsWith("index.html");
+
+  if ((isShopLink && isShopPage) || (!isShopLink && (isHomePage || pathName.includes(pageName)))) {
     nav[i].classList.add("selected");
   } else {
     nav[i].classList.remove("selected");
   }
 }
+
+
+
+
+
+
+
+
+
 
 $(document).ready(function () {
 

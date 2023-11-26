@@ -1,0 +1,1974 @@
+{
+  "Personalized": [
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Frame Quote",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Mugs",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Tumblers",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Chopping Boards",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Hoodie",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Sock",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Jewelries",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Throw Pillow",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Journal",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    }
+  ],
+
+  "Male": {
+    "Birthday": [
+      {
+        "image": "./img/male.jpeg",
+        "name": "Belt",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Whiskey",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Laptop Bag",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Board Games",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Wallet",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Cloths",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Ready to wear",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Massager",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Belt",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Slides",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Shoe",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Sneakers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gadgets",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Phones",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Cufflinks",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Watches",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Beards Kit",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Smoothie Blender",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Belt",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Glasses",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Belt",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Clippers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Belt",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Bluetooth Speaker",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Bracelets",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Underwears",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Surprise": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Surprise Cake",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Tray",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Dinner Ticket",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gift Cards",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Explosion Box",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Money Frame",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Framed Word",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Graduation": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Photo Posters",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized Journals",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Customized Photobook",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Inspirational Wall Art",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Alarm Clock",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gift Card",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Festive": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Hampers",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Platter",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      }
+    ],
+    "GetWellSoon": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Scented Candles",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Candy Pack",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Tea Pack",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Cookie Pack",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gift Cards",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Apologies": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Explosion Box",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Apology Card",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Mixtape on flash drive",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Whiskey",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Apology Frame",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Condolences": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Fruit Basket",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Tray",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Cards",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ]
+  },
+
+  "Female": {
+    "Birthday": [
+      {
+        "image": "./img/male.jpeg",
+        "name": "Jewelries",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Skin care set",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Pyjamas",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Wigs",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Bags",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Flowers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Massagers",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Teddy",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Drinks",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Lingeries",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Watches",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Headset",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Camera lenses",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Perfumes",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Candy",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Explosion Box",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Make up set",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Phones",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "E-reader",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Piece of land",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Car",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Surprise": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Surprise Cake",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Tray",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Dinner Ticket",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gift Cards",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Explosion Box",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Money Frame",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Framed Word",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Graduation": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Photo Posters",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized Journals",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Customized Photobook",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Inspirational Wall Art",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Alarm Clock",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gift Card",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Festive": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Hampers",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Platter",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      }
+    ],
+    "GetWellSoon": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Scented Candles",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Candy Pack",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Tea Pack",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Cookie Pack",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Gift Cards",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Apologies": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Explosion Box",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Apology Card",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Mixtape on flash drive",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Flowers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Teddy",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Apology Frame",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Condolences": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Fruit Basket",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Tray",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/male.jpeg",
+        "name": "Cards",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ]
+  },
+
+  "Children": {
+    "Birthday": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Binoculars",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Ipad",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Headset",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Books",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Piggy Bank",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Journal",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Instant Camera",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Board Games",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Toys",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Bicycles",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Car",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Candy Pack",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Lego Games",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Teddy",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      }
+    ],
+    "Newborn": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Onesies",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Blankets",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Socks set",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Feeder set",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Play mat",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rattles",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Walker",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Crib",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Baby diaper",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Backpack",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Baby grooming kit",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Diapers",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Baby baths",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Baby cloth",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      }
+    ],
+    "Teenagers": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Neon sign",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Shoes",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Slides",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Sneakers",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Picture Frame",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized Pillows",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Books",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cloth",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Bags",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Watches",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cake",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      }
+    ],
+    "BackToSchool": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Back pack",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Lunch box",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Set of pen",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Folders",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Water bottle",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Maths set",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Stationeries",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      }
+    ]
+  },
+
+  "Cooperate": {
+    "NewJob": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Personalized pen",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Laptop Bag",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tote bag",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plant/Desktop garden",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Gift Card",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Table frame quotes",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Personalized pen",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Coffee tumbler",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Journal",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Stationeries",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Personalized pen",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Earbuds",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Personalized pen",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Charging station",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "WorkAnniversary": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Anniversary cards",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Treats basket",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Books",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Journals",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cocktails",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food Platter",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "BirthdayPack": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Power banks",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Chargers",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Journal",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Books",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food tray",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized tumblers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cakes",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cards",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "CondolencePack": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cards",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Flowers",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Fruit Pack",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Scented Candle",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Promotion": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Hampers",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cards",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Drinks",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cake",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Treats pack",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Retirement": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cake",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized Frame",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Personalized pen",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized Journal",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Wall Art",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ]
+  },
+
+  "FestiveBundle": {
+    "XmasPack": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Mini",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Maxi",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Midi",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "EndOfTheYearPack": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Mini",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Maxi",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Midi",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "ValentinePack": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Mini",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Maxi",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Midi",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "EasterPack": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Mini",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Maxi",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Midi",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ]
+  },
+
+  "Couple": {
+    "Anniversary": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "2-in-1 pyjamas",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Neon pic frame light",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized jewelries",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Picture Frames",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Watches",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized throw pillow",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Humidifier",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Perfume sets",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "Weddings": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Engraved bathrobes",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Cookware sets",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Washing machine",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Bedding sets",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Microwaves",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Blenders",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Food",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Processors",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Air fryer",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "BabyShower": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rocking chairs",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Breast pump",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Skin care set",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Baby pedicure set",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Stuffed animal",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Strollers",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Breast feeding supplies",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "BridalShower": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Scented Candles",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Diffusers",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Mugs",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Perfumes",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Skin care set",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Frames",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ],
+    "HouseWarming": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Vase",
+        "price": 49.99,
+        "description": "Description for Item 3"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rugs",
+        "price": 59.99,
+        "description": "Description for Item 4"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Home decor arts",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Kitchen essentials",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Door mat",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Wines",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      }
+    ]
+  },
+
+  "Naughty": [
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Card games",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Sensual card gift",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Sex toys",
+      "price": "$199",
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Sexy wall art",
+      "price": 29.99,
+      "description": "Description for Item 1"
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Kamasutra book",
+      "price": 39.99,
+      "description": "Description for Item 2"
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Sensual customized mug",
+      "price": 29.99,
+      "description": "Description for Item 1"
+    },
+    {
+      "image": "./img/flower1.jpg",
+      "name": "Edibles",
+      "price": 29.99,
+      "description": "Description for Item 1"
+    }
+  ],
+
+  "Souvenirs": {
+    "Birthdays": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plastics",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Jotters",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Keychain",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tumblers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Towers",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Soap holder",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tote bags",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized fridge magnet",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rechargeable hand fan",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Umbrellas",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plates",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Wall Clock",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Kitchen utensil",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Torch light",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Burials": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plastics",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Jotters",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Keychain",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tumblers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Towers",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Soap holder",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tote bags",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized fridge magnet",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rechargeable hand fan",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Umbrellas",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plates",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Wall Clock",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Kitchen utensil",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Torch light",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Naming": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plastics",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Jotters",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Keychain",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tumblers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Towers",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Soap holder",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tote bags",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized fridge magnet",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rechargeable hand fan",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Umbrellas",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plates",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Wall Clock",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Kitchen utensil",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Torch light",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ],
+    "Graduation": [
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plastics",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Jotters",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Keychain",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tumblers",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Towers",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Soap holder",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Tote bags",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Customized fridge magnet",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Rechargeable hand fan",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Umbrellas",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Plates",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Wall Clock",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Kitchen utensil",
+        "price": 29.99,
+        "description": "Description for Item 1"
+      },
+      {
+        "image": "./img/flower1.jpg",
+        "name": "Torch light",
+        "price": 39.99,
+        "description": "Description for Item 2"
+      }
+    ]
+  }
+}
