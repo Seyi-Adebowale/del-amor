@@ -58,7 +58,8 @@ document.addEventListener("DOMContentLoaded", function () {
       productImage.alt = product.name;
       productName.textContent = product.name;
       productDescription.textContent = product.description;
-      productPrice.textContent = `N ${product.price}`;
+      productPrice.textContent = `₦${product.price}`;
+
 
       let counter = 0;
       const incrementBtn = document.getElementById("increment-btn");

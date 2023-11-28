@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             const price = document.createElement("div");
             price.classList.add("price");
-            price.textContent = item.price;
+            price.textContent = `₦${item.price}`;
 
             galleryContainer.appendChild(galleryBox);
             galleryBox.appendChild(galleryImg);

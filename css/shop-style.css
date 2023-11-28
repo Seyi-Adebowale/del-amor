@@ -125,6 +125,7 @@ div.price{
   width: 300px;
   border: 1px solid #ccc;
   margin: 0px auto 20px;
+  cursor: pointer;
 }
 .category-select {
   text-align: center;
