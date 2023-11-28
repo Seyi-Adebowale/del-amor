@@ -32,6 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
       categoryData.forEach((item) => {
         const galleryBox = document.createElement("div");
         galleryBox.classList.add("gallery-box");
+        galleryBox.dataset.productId = item.id; // Add data-product-id attribute
 
         const galleryImg = document.createElement("div");
         galleryImg.classList.add("gallery-img");
@@ -55,6 +56,15 @@ document.addEventListener("DOMContentLoaded", function () {
         galleryImg.appendChild(img);
         galleryBox.appendChild(desc);
         galleryBox.appendChild(price);
+
+        // Add click event listener to each product item
+        galleryBox.addEventListener("click", function () {
+          // Get the product ID from the clicked item
+          const productId = this.dataset.productId;
+
+          // Navigate to the product.html page with the product ID as a parameter
+          window.location.href = `product.html?productId=${productId}`;
+        });
       });
     } else {
       console.error("No data found for category:", category);

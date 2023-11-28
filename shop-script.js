@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var filterButtons = document.querySelectorAll(".filter-buttons .gallery-btn");
-  var categorySelect = document.getElementById("category-select");
-  var shuffleInstance;
+  const filterButtons = document.querySelectorAll(".filter-buttons .gallery-btn");
+  const categorySelect = document.getElementById("category-select");
 
   // Hide the gallery initially
   document.getElementById("gallery").style.display = "none";
@@ -18,17 +17,17 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function initShuffle(data, category) {
-    shuffleInstance = new Shuffle(document.querySelector("#gallery"), {
+    const shuffleInstance = new Shuffle(document.querySelector("#gallery"), {
       itemSelector: ".gallery-item",
     });
 
     categorySelect.addEventListener("change", function (event) {
-      var selectedValue = event.target.value;
+      const selectedValue = event.target.value;
       shuffleInstance.filter(
         selectedValue === "all"
           ? Shuffle.ALL_ITEMS
           : function (element) {
-              var groups = JSON.parse(element.getAttribute("data-groups"));
+              const groups = JSON.parse(element.getAttribute("data-groups"));
               return groups.includes(selectedValue);
             }
       );
@@ -37,12 +36,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     filterButtons.forEach(function (button) {
       button.addEventListener("click", function () {
-        var selectedGroup = this.getAttribute("data-group");
+        const selectedGroup = this.getAttribute("data-group");
         shuffleInstance.filter(
           selectedGroup === "all"
             ? Shuffle.ALL_ITEMS
             : function (element) {
-                var groups = JSON.parse(element.getAttribute("data-groups"));
+                const groups = JSON.parse(element.getAttribute("data-groups"));
                 return groups.includes(selectedGroup);
               }
         );
@@ -56,18 +55,18 @@ document.addEventListener("DOMContentLoaded", function () {
       defaultCategory === "all"
         ? Shuffle.ALL_ITEMS
         : function (element) {
-            var groups = JSON.parse(element.getAttribute("data-groups"));
+            const groups = JSON.parse(element.getAttribute("data-groups"));
             return groups.includes(defaultCategory);
           }
     );
     updateActiveClass(defaultCategory);
 
     // Get the page name from the URL
-    var pageName = window.location.pathname
+    const pageName = window.location.pathname
       .split("/")
       .pop()
       .replace(".html", "");
-    var capitalizedPageName =
+    const capitalizedPageName =
       pageName.charAt(0).toUpperCase() + pageName.slice(1);
 
     // Call the function with the extracted and capitalized page name
@@ -77,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("gallery").style.display = "block";
     document.querySelector(".footer").style.visibility = "visible";
   }
-  
+
   // Lazy loading function
   var images = document.querySelectorAll(".lazy-load-image");
 
@@ -121,6 +120,7 @@ document.addEventListener("DOMContentLoaded", function () {
           occasionData.forEach((item) => {
             const galleryBox = document.createElement("div");
             galleryBox.classList.add("gallery-box");
+            galleryBox.dataset.productId = item.id; // Add data-product-id attribute
 
             const galleryImg = document.createElement("div");
             galleryImg.classList.add("gallery-img");
@@ -144,6 +144,15 @@ document.addEventListener("DOMContentLoaded", function () {
             galleryImg.appendChild(img);
             galleryBox.appendChild(desc);
             galleryBox.appendChild(price);
+
+            // Add click event listener to each product item
+            galleryBox.addEventListener("click", function () {
+              // Get the product ID from the clicked item
+              const productId = this.dataset.productId;
+
+              // Navigate to the product.html page with the product ID as a parameter
+              window.location.href = `product.html?productId=${productId}`;
+            });
           });
         } else {
           console.error(

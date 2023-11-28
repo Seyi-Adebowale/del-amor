@@ -14,11 +14,8 @@ for (let i = 0; i < nav.length; i++) {
   const pageName = anchor.textContent.trim().toLowerCase();
   const pathName = location.pathname.toLowerCase();
 
-  console.log("Page Name:", pageName);
-  console.log("Path Name:", pathName);
-
   // Keywords related to shop pages
-  const shopPageKeywords = ["shop", "personalized", "male", "female", "children", "cooperate", "festive", "couple", "souvenirs", "naughty"];
+  const shopPageKeywords = ["shop", "personalized", "male", "female", "children", "cooperate", "festive", "couple", "souvenirs", "naughty", "product"];
 
   // Check if the current link is the "Shop" link
   const isShopLink = pageName === "shop";

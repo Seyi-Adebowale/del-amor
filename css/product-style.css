@@ -1,0 +1,110 @@
+@import url(../css/global.css);
+main {
+  background-image: url("../img/contact-bkg.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top: 30px;
+}
+.product{
+  width: 100%;
+}
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* outline: 1px solid red; */
+  width: 100%;
+}
+
+.quantity-counter {
+  font-size: 3rem;
+  display: flex;
+  align-items: center;
+  background-color: var(--color-white);
+  padding: 10px;
+  width: 250px;
+  
+  border-radius: 50px;
+  border: 3px solid var(--color-black)
+
+  
+}
+.quantity-counter p{
+  font-size: 2rem;
+  padding-right: 10px;
+}
+#counter-value{
+  padding: 0 20px;
+}
+.product-name{
+  font-size: 5rem;
+  text-transform: capitalize;
+}
+.product-desc{
+  font-size: 2.2rem;
+}
+button{
+  background-color: var(--color-red);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  color: var(--color-white);
+  font-weight: bold;
+  font-family: inherit;
+  margin: 20px 0;
+  cursor: pointer;
+  letter-spacing: 1px;
+  transition: 0.2s;
+  font-size: 1.6rem;
+}
+button:hover{
+  background-color: var(--color-white);
+  color: var(--color-red);
+  border: 2px solid var(--color-red);
+  transform: scale(1.03);
+}
+.quantity-counter i{
+  color: var(--color-red);
+  cursor: pointer;
+}
+.product-price{
+  font-size: 2.5rem;
+  color: var(--color-red);
+  font-weight: bold;
+  padding: 20px 0;
+}
+.product-img {
+    width: 50%;
+    text-align: center;
+    /* outline: 1px solid blue; */
+}
+.product-img img{
+  height: 480px;
+  width: 100%;
+}
+.product-details{
+    width: 40%;
+    /* outline: 1px solid green; */
+}
+@media screen and (max-width: 767px) {
+  .product-container{
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+  }
+  .product-img{
+    width: 90%;
+    margin: auto;
+  }
+  .product-img img{
+    width: 70%;
+  }
+  .product-details{
+    width: 90%;
+    margin: auto;
+  }
+  .quantity-counter{
+    justify-content: center;
+    margin: auto;
+  }
+}
