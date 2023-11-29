@@ -10,6 +10,7 @@
   justify-content: center;
   width: 95%;
   margin: 10px auto 0;
+  height: 166px;
 }
 .occasions-container__box {
   display: flex !important;

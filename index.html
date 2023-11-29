@@ -10,10 +10,7 @@
     ></script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,400;0,500;0,700;1,400&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet"/>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -61,8 +58,11 @@
         </div>
         <div class="header__icons">
           <i class="fas fa-search"></i>
-          <i class="fas fa-user-alt"></i>
-          <i class="fas fa-shopping-cart"></i>
+          
+          <div class="cart-icon-container" onclick="openCartModal()">
+            <i class="fas fa-shopping-cart" ></i>
+            <span id="cart-counter">0</span>
+          </div>
         </div>
       </div>
     </header>
@@ -307,6 +307,21 @@
         </div>
       </div>
 
+      <div id="cart-modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeCartModal()">&times;</span>
+            <h2>Your Cart</h2>
+            <ul id="cart-items-list"></ul>
+            <div id="cart-message">
+              <p>Your cart is empty</p>
+              <a href="shop.html">Start Shopping</a>
+            </div>
+            <button id="checkout-button" class="key-btn">CHECK OUT</button>
+            <button class="clear-cart key-btn" id="clear-cart-button" onclick="clearCart()">Clear Cart</button>
+            
+        </div>
+    </div>
+
       <section class="footer">
         <div class="contact-icons">
           <a href="tel:+2349166421859"><i class="fas fa-phone-alt"></i></a>
@@ -320,5 +335,7 @@
       </section>
     </main>
     <script src="main.js"></script>
+    <script src="cart.js"></script>
+    <script src="product-script.js"></script>
   </body>
 </html>

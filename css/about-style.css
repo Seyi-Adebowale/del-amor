@@ -42,7 +42,6 @@ main{
     font-style: italic;
     letter-spacing: 2px;
     font-weight: bold;
-    /* font-family: 'Pacifico', cursive; */
 }
 .about-text b{
     color: var(--color-red);
@@ -52,7 +51,6 @@ main{
     font-size: 5rem;
     color: var(--color-red);
     letter-spacing: 3px;
-    /* font-family: 'Pacifico', cursive; */
 }
 @media screen and (max-width: 768px){
     .about-body{
