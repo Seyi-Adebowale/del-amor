@@ -81,7 +81,7 @@ button:hover{
     width: 40%;
 }
 
-.product-id{
+.product-details .hide{
   display: none;
 }
 @media screen and (max-width: 767px) {

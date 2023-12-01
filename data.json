@@ -5,63 +5,72 @@
       "image": "./img/flower1.jpg",
       "name": "Frame Quote",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 2,
       "image": "./img/flower1.jpg",
       "name": "Mugs",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 3,
       "image": "./img/flower1.jpg",
       "name": "Tumblers",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 4,
       "image": "./img/flower1.jpg",
       "name": "Chopping Boards",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 5,
       "image": "./img/flower1.jpg",
       "name": "Hoodie",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 6,
       "image": "./img/flower1.jpg",
       "name": "Sock",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 7,
       "image": "./img/flower1.jpg",
       "name": "Jewelries",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 8,
       "image": "./img/flower1.jpg",
       "name": "Throw Pillow",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     },
     {
       "id": 9,
       "image": "./img/flower1.jpg",
       "name": "Journal",
       "price": 199,
-      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions."
+      "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
+      "category" : "Personalized"
     }
   ],
   "Male": {
@@ -71,182 +80,198 @@
         "image": "./img/male.jpeg",
         "name": "Belt",
         "price": 29.99,
-        "description": "Description for Item 1"
+        "description": "Description for Item 1",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 11,
         "image": "./img/male.jpeg",
         "name": "Whiskey",
         "price": 39.99,
-        "description": "Description for Item 2"
+        "description": "Description for Item 2",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 12,
         "image": "./img/male.jpeg",
         "name": "Laptop Bag",
         "price": 29.99,
-        "description": "Description for Item 1"
+        "description": "Description for Item 1",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 13,
         "image": "./img/male.jpeg",
         "name": "Board Games",
         "price": 39.99,
-        "description": "Description for Item 2"
+        "description": "Description for Item 2",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 14,
         "image": "./img/male.jpeg",
         "name": "Wallet",
         "price": 29.99,
-        "description": "Description for Item 1"
+        "description": "Description for Item 1",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 15,
         "image": "./img/male.jpeg",
         "name": "Cloths",
         "price": 39.99,
-        "description": "Description for Item 2"
+        "description": "Description for Item 2",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 16,
         "image": "./img/male.jpeg",
         "name": "Ready to wear",
         "price": 29.99,
-        "description": "Description for Item 1"
+        "description": "Description for Item 1",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 17,
         "image": "./img/male.jpeg",
         "name": "Massager",
         "price": 39.99,
-        "description": "Description for Item 2"
-      },
-      {
-        "id": 18,
-        "image": "./img/male.jpeg",
-        "name": "Belt",
-        "price": 29.99,
-        "description": "Description for Item 1"
+        "description": "Description for Item 2",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 19,
         "image": "./img/male.jpeg",
         "name": "Slides",
         "price": 39.99,
-        "description": "Description for Item 2"
+        "description": "Description for Item 2",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 20,
         "image": "./img/male.jpeg",
         "name": "Shoe",
         "price": 29.99,
-        "description": "Description for Item 1"
+        "description": "Description for Item 1",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "id": 21,
         "image": "./img/male.jpeg",
         "name": "Sneakers",
         "price": 39.99,
-        "description": "Description for Item 2"
+        "description": "Description for Item 2",
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gadgets",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 22
+        "id": 22,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Phones",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 23
+        "id": 23,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Cufflinks",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 24
+        "id": 24,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Watches",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 25
+        "id": 25,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Beards Kit",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 26
+        "id": 26,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Smoothie Blender",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 27
-      },
-      {
-        "image": "./img/male.jpeg",
-        "name": "Belt",
-        "price": 29.99,
-        "description": "Description for Item 1",
-        "id": 28
+        "id": 27,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Glasses",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 29
-      },
-      {
-        "image": "./img/male.jpeg",
-        "name": "Belt",
-        "price": 29.99,
-        "description": "Description for Item 1",
-        "id": 30
+        "id": 29,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Clippers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 31
-      },
-      {
-        "image": "./img/male.jpeg",
-        "name": "Belt",
-        "price": 29.99,
-        "description": "Description for Item 1",
-        "id": 32
+        "id": 31,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Bluetooth Speaker",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 33
+        "id": 33,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Bracelets",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 34
+        "id": 34,
+        "category" : "Male",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Underwears",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 35
+        "id": 35,
+        "category" : "Male",
+        "occasion" : "Birthday"
       }
     ],
     "Surprise": [
@@ -255,49 +280,63 @@
         "name": "Surprise Cake",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 36
+        "id": 36,
+        "category" : "Male",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Tray",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 37
+        "id": 37,
+        "category" : "Male",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Dinner Ticket",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 38
+        "id": 38,
+        "category" : "Male",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gift Cards",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 39
+        "id": 39,
+        "category" : "Male",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Explosion Box",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 40
+        "id": 40,
+        "category" : "Male",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Money Frame",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 41
+        "id": 41,
+        "category" : "Male",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Framed Word",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 42
+        "id": 42,
+        "category" : "Male",
+        "occasion" : "Surprise"
       }
     ],
     "Graduation": [
@@ -306,42 +345,54 @@
         "name": "Photo Posters",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 43
+        "id": 43,
+        "category" : "Male",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized Journals",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 44
+        "id": 44,
+        "category" : "Male",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Customized Photobook",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 45
+        "id": 45,
+        "category" : "Male",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Inspirational Wall Art",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 46
+        "id": 46,
+        "category" : "Male",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Alarm Clock",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 47
+        "id": 47,
+        "category" : "Male",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gift Card",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 48
+        "id": 48,
+        "category" : "Male",
+        "occasion" : "Graduation"
       }
     ],
     "Festive": [
@@ -350,14 +401,18 @@
         "name": "Food Hampers",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 49
+        "id": 49,
+        "category" : "Male",
+        "occasion" : "Festive"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Platter",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 50
+        "id": 50,
+        "category" : "Male",
+        "occasion" : "Festive"
       }
     ],
     "GetWellSoon": [
@@ -366,35 +421,45 @@
         "name": "Scented Candles",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 51
+        "id": 51,
+        "category" : "Male",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Candy Pack",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 52
+        "id": 52,
+        "category" : "Male",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Tea Pack",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 53
+        "id": 53,
+        "category" : "Male",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Cookie Pack",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 54
+        "id": 54,
+        "category" : "Male",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gift Cards",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 55
+        "id": 55,
+        "category" : "Male",
+        "occasion" : "GetWellSoon"
       }
     ],
     "Apologies": [
@@ -403,35 +468,45 @@
         "name": "Explosion Box",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 56
+        "id": 56,
+        "category" : "Male",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Apology Card",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 57
+        "id": 57,
+        "category" : "Male",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Mixtape on flash drive",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 58
+        "id": 58,
+        "category" : "Male",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Whiskey",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 59
+        "id": 59,
+        "category" : "Male",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Apology Frame",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 60
+        "id": 60,
+        "category" : "Male",
+        "occasion" : "Apologies"
       }
     ],
     "Condolences": [
@@ -440,21 +515,27 @@
         "name": "Fruit Basket",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 61
+        "id": 61,
+        "category" : "Male",
+        "occasion" : "Condolences"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Tray",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 62
+        "id": 62,
+        "category" : "Male",
+        "occasion" : "Condolences"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Cards",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 63
+        "id": 63,
+        "category" : "Male",
+        "occasion" : "Condolences"
       }
     ]
   },
@@ -465,147 +546,189 @@
         "name": "Jewelries",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 64
+        "id": 64,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Skin care set",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 65
+        "id": 65,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Pyjamas",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 66
+        "id": 66,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Wigs",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 67
+        "id": 67,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Bags",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 68
+        "id": 68,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Flowers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 69
+        "id": 69,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Massagers",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 70
+        "id": 70,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Teddy",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 71
+        "id": 71,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Drinks",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 72
+        "id": 72,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Lingeries",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 73
+        "id": 73,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Watches",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 74
+        "id": 74,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Headset",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 75
+        "id": 75,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Camera lenses",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 76
+        "id": 76,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Perfumes",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 77
+        "id": 77,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Candy",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 78
+        "id": 78,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Explosion Box",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 79
+        "id": 79,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Make up set",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 80
+        "id": 80,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Phones",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 81
+        "id": 81,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "E-reader",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 82
+        "id": 82,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Piece of land",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 83
+        "id": 83,
+        "category" : "Female",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Car",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 84
+        "id": 84,
+        "category" : "Female",
+        "occasion" : "Birthday"
       }
     ],
     "Surprise": [
@@ -614,49 +737,63 @@
         "name": "Surprise Cake",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 85
+        "id": 85,
+        "category" : "Female",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Tray",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 86
+        "id": 86,
+        "category" : "Female",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Dinner Ticket",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 87
+        "id": 87,
+        "category" : "Female",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gift Cards",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 88
+        "id": 88,
+        "category" : "Female",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Explosion Box",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 89
+        "id": 89,
+        "category" : "Female",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Money Frame",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 90
+        "id": 90,
+        "category" : "Female",
+        "occasion" : "Surprise"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Framed Word",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 91
+        "id": 91,
+        "category" : "Female",
+        "occasion" : "Surprise"
       }
     ],
     "Graduation": [
@@ -665,42 +802,54 @@
         "name": "Photo Posters",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 92
+        "id": 92,
+        "category" : "Female",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized Journals",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 93
+        "id": 93,
+        "category" : "Female",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Customized Photobook",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 94
+        "id": 94,
+        "category" : "Female",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Inspirational Wall Art",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 95
+        "id": 95,
+        "category" : "Female",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Alarm Clock",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 96
+        "id": 96,
+        "category" : "Female",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gift Card",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 97
+        "id": 97,
+        "category" : "Female",
+        "occasion" : "Graduation"
       }
     ],
     "Festive": [
@@ -709,14 +858,18 @@
         "name": "Food Hampers",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 98
+        "id": 98,
+        "category" : "Female",
+        "occasion" : "Festive"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Platter",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 99
+        "id": 99,
+        "category" : "Female",
+        "occasion" : "Graduation"
       }
     ],
     "GetWellSoon": [
@@ -725,35 +878,45 @@
         "name": "Scented Candles",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 100
+        "id": 100,
+        "category" : "Female",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Candy Pack",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 101
+        "id": 101,
+        "category" : "Female",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Tea Pack",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 102
+        "id": 102,
+        "category" : "Female",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Cookie Pack",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 103
+        "id": 103,
+        "category" : "Female",
+        "occasion" : "GetWellSoon"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Gift Cards",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 104
+        "id": 104,
+        "category" : "Female",
+        "occasion" : "GetWellSoon"
       }
     ],
     "Apologies": [
@@ -762,42 +925,54 @@
         "name": "Explosion Box",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 105
+        "id": 105,
+        "category" : "Female",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Apology Card",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 106
+        "id": 106,
+        "category" : "Female",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Mixtape on flash drive",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 107
+        "id": 107,
+        "category" : "Female",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Flowers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 108
+        "id": 108,
+        "category" : "Female",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Teddy",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 109
+        "id": 109,
+        "category" : "Female",
+        "occasion" : "Apologies"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Apology Frame",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 110
+        "id": 110,
+        "category" : "Female",
+        "occasion" : "Apologies"
       }
     ],
     "Condolences": [
@@ -806,21 +981,27 @@
         "name": "Fruit Basket",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 111
+        "id": 111,
+        "category" : "Female",
+        "occasion" : "Condolences"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Tray",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 112
+        "id": 112,
+        "category" : "Female",
+        "occasion" : "Condolences"
       },
       {
         "image": "./img/male.jpeg",
         "name": "Cards",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 113
+        "id": 113,
+        "category" : "Female",
+        "occasion" : "Condolences"
       }
     ]
   },
@@ -831,98 +1012,126 @@
         "name": "Binoculars",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 114
+        "id": 114,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Ipad",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 115
+        "id": 115,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Headset",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 116
+        "id": 116,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Books",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 117
+        "id": 117,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Piggy Bank",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 118
+        "id": 118,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Journal",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 119
+        "id": 119,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Instant Camera",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 120
+        "id": 120,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Board Games",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 121
+        "id": 121,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Toys",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 122
+        "id": 122,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Bicycles",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 123
+        "id": 123,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Car",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 124
+        "id": 124,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Candy Pack",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 125
+        "id": 125,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Lego Games",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 126
+        "id": 126,
+        "category" : "Children",
+        "occasion" : "Birthday"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Teddy",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 127
+        "id": 127,
+        "category" : "Children",
+        "occasion" : "Birthday"
       }
     ],
     "Newborn": [
@@ -931,98 +1140,126 @@
         "name": "Onesies",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 128
+        "id": 128,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Blankets",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 129
+        "id": 129,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Socks set",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 130
+        "id": 130,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Feeder set",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 131
+        "id": 131,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Play mat",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 132
+        "id": 132,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Rattles",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 133
+        "id": 133,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Walker",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 134
+        "id": 134,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Crib",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 135
+        "id": 135,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Baby diaper",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 136
+        "id": 136,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Backpack",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 137
+        "id": 137,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Baby grooming kit",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 138
+        "id": 138,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Diapers",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 139
+        "id": 139,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Baby baths",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 140
+        "id": 140,
+        "category" : "Children",
+        "occasion" : "Newborn"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Baby cloth",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 141
+        "id": 141,
+        "category" : "Children",
+        "occasion" : "Newborn"
       }
     ],
     "Teenagers": [
@@ -1031,77 +1268,99 @@
         "name": "Neon sign",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 142
+        "id": 142,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Shoes",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 143
+        "id": 143,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Slides",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 144
+        "id": 144,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Sneakers",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 145
+        "id": 145,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Picture Frame",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 146
+        "id": 146,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized Pillows",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 147
+        "id": 147,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Books",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 148
+        "id": 148,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cloth",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 149
+        "id": 149,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Bags",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 150
+        "id": 150,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Watches",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 151
+        "id": 151,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cake",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 152
+        "id": 152,
+        "category" : "Children",
+        "occasion" : "Teenagers"
       }
     ],
     "BackToSchool": [
@@ -1110,49 +1369,63 @@
         "name": "Back pack",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 153
+        "id": 153,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Lunch box",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 154
+        "id": 154,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Set of pen",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 155
+        "id": 155,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Folders",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 156
+        "id": 156,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Water bottle",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 157
+        "id": 157,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Maths set",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 158
+        "id": 158,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Stationeries",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 159
+        "id": 159,
+        "category" : "Children",
+        "occasion" : "BackToSchool"
       }
     ]
   },
@@ -1163,98 +1436,126 @@
         "name": "Personalized pen",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 160
+        "id": 160,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Laptop Bag",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 161
+        "id": 161,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tote bag",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 162
+        "id": 162,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Plant/Desktop garden",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 163
+        "id": 163,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Gift Card",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 164
+        "id": 164,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Table frame quotes",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 165
+        "id": 165,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Personalized pen",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 166
+        "id": 166,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Coffee tumbler",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 167
+        "id": 167,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Journal",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 168
+        "id": 168,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Stationeries",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 169
+        "id": 169,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Personalized pen",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 170
+        "id": 170,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Earbuds",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 171
+        "id": 171,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Personalized pen",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 172
+        "id": 172,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Charging station",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 173
+        "id": 173,
+        "category" : "Cooperate",
+        "occasion" : "NewJob"
       }
     ],
     "WorkAnniversary": [
@@ -1263,42 +1564,54 @@
         "name": "Anniversary cards",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 174
+        "id": 174,
+        "category" : "Cooperate",
+        "occasion" : "WorkAnniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Treats basket",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 175
+        "id": 175,
+        "category" : "Cooperate",
+        "occasion" : "WorkAnniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Books",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 176
+        "id": 176,
+        "category" : "Cooperate",
+        "occasion" : "WorkAnniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Journals",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 177
+        "id": 177,
+        "category" : "Cooperate",
+        "occasion" : "WorkAnniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cocktails",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 178
+        "id": 178,
+        "category" : "Cooperate",
+        "occasion" : "WorkAnniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food Platter",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 179
+        "id": 179,
+        "category" : "Cooperate",
+        "occasion" : "WorkAnniversary"
       }
     ],
     "BirthdayPack": [
@@ -1307,56 +1620,72 @@
         "name": "Power banks",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 180
+        "id": 180,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Chargers",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 181
+        "id": 181,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Journal",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 182
+        "id": 182,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Books",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 183
+        "id": 183,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food tray",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 184
+        "id": 184,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized tumblers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 185
+        "id": 185,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cakes",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 186
+        "id": 186,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cards",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 187
+        "id": 187,
+        "category" : "Cooperate",
+        "occasion" : "BirthdayPack"
       }
     ],
     "CondolencePack": [
@@ -1365,28 +1694,36 @@
         "name": "Cards",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 188
+        "id": 188,
+        "category" : "Cooperate",
+        "occasion" : "CondolencePack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Flowers",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 189
+        "id": 189,
+        "category" : "Cooperate",
+        "occasion" : "CondolencePack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Fruit Pack",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 190
+        "id": 190,
+        "category" : "Cooperate",
+        "occasion" : "CondolencePack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Scented Candle",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 191
+        "id": 191,
+        "category" : "Cooperate",
+        "occasion" : "CondolencePack"
       }
     ],
     "Promotion": [
@@ -1395,35 +1732,45 @@
         "name": "Hampers",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 192
+        "id": 192,
+        "category" : "Cooperate",
+        "occasion" : "Promotion"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cards",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 193
+        "id": 193,
+        "category" : "Cooperate",
+        "occasion" : "Promotion"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Drinks",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 194
+        "id": 194,
+        "category" : "Cooperate",
+        "occasion" : "Promotion"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cake",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 195
+        "id": 195,
+        "category" : "Cooperate",
+        "occasion" : "Promotion"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Treats pack",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 196
+        "id": 196,
+        "category" : "Cooperate",
+        "occasion" : "Promotion"
       }
     ],
     "Retirement": [
@@ -1432,35 +1779,45 @@
         "name": "Cake",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 197
+        "id": 197,
+        "category" : "Cooperate",
+        "occasion" : "Retirement"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized Frame",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 198
+        "id": 198,
+        "category" : "Cooperate",
+        "occasion" : "Retirement"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Personalized pen",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 199
+        "id": 199,
+        "category" : "Cooperate",
+        "occasion" : "Retirement"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized Journal",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 200
+        "id": 200,
+        "category" : "Cooperate",
+        "occasion" : "Retirement"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Wall Art",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 201
+        "id": 201,
+        "category" : "Cooperate",
+        "occasion" : "Retirement"
       }
     ]
   },
@@ -1471,21 +1828,27 @@
         "name": "Mini",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 202
+        "id": 202,
+        "category" : "Festive",
+        "occasion" : "XmasPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Maxi",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 203
+        "id": 203,
+        "category" : "Festive",
+        "occasion" : "XmasPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Midi",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 204
+        "id": 204,
+        "category" : "Festive",
+        "occasion" : "XmasPack"
       }
     ],
     "EndOfTheYearPack": [
@@ -1494,21 +1857,27 @@
         "name": "Mini",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 205
+        "id": 205,
+        "category" : "Festive",
+        "occasion" : "EndOfTheYearPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Maxi",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 206
+        "id": 206,
+        "category" : "Festive",
+        "occasion" : "EndOfTheYearPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Midi",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 207
+        "id": 207,
+        "category" : "Festive",
+        "occasion" : "EndOfTheYearPack"
       }
     ],
     "ValentinePack": [
@@ -1517,21 +1886,27 @@
         "name": "Mini",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 208
+        "id": 208,
+        "category" : "Festive",
+        "occasion" : "ValentinePack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Maxi",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 209
+        "id": 209,
+        "category" : "Festive",
+        "occasion" : "ValentinePack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Midi",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 210
+        "id": 210,
+        "category" : "Festive",
+        "occasion" : "ValentinePack"
       }
     ],
     "EasterPack": [
@@ -1540,21 +1915,27 @@
         "name": "Mini",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 211
+        "id": 211,
+        "category" : "Festive",
+        "occasion" : "EasterPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Maxi",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 212
+        "id": 212,
+        "category" : "Festive",
+        "occasion" : "EasterPack"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Midi",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 213
+        "id": 213,
+        "category" : "Festive",
+        "occasion" : "EasterPack"
       }
     ]
   },
@@ -1565,56 +1946,72 @@
         "name": "2-in-1 pyjamas",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 214
+        "id": 214,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Neon pic frame light",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 215
+        "id": 215,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized jewelries",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 216
+        "id": 216,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Picture Frames",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 217
+        "id": 217,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Watches",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 218
+        "id": 218,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized throw pillow",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 219
+        "id": 219,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Humidifier",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 220
+        "id": 220,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Perfume sets",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 221
+        "id": 221,
+        "category" : "Couple",
+        "occasion" : "Anniversary"
       }
     ],
     "Weddings": [
@@ -1623,63 +2020,81 @@
         "name": "Engraved bathrobes",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 222
+        "id": 222,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Cookware sets",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 223
+        "id": 223,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Washing machine",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 224
+        "id": 224,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Bedding sets",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 225
+        "id": 225,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Microwaves",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 226
+        "id": 226,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Blenders",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 227
+        "id": 227,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Food",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 228
+        "id": 228,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Processors",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 229
+        "id": 229,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Air fryer",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 230
+        "id": 230,
+        "category" : "Couple",
+        "occasion" : "Weddings"
       }
     ],
     "BabyShower": [
@@ -1688,49 +2103,63 @@
         "name": "Rocking chairs",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 231
+        "id": 231,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Breast pump",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 232
+        "id": 232,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Skin care set",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 233
+        "id": 233,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Baby pedicure set",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 234
+        "id": 234,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Stuffed animal",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 235
+        "id": 235,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Strollers",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 236
+        "id": 236,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Breast feeding supplies",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 237
+        "id": 237,
+        "category" : "Couple",
+        "occasion" : "BabyShower"
       }
     ],
     "BridalShower": [
@@ -1739,42 +2168,54 @@
         "name": "Scented Candles",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 238
+        "id": 238,
+        "category" : "Couple",
+        "occasion" : "BridalShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Diffusers",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 239
+        "id": 239,
+        "category" : "Couple",
+        "occasion" : "BridalShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Mugs",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 240
+        "id": 240,
+        "category" : "Couple",
+        "occasion" : "BridalShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Perfumes",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 241
+        "id": 241,
+        "category" : "Couple",
+        "occasion" : "BridalShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Skin care set",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 242
+        "id": 242,
+        "category" : "Couple",
+        "occasion" : "BridalShower"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Frames",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 243
+        "id": 243,
+        "category" : "Couple",
+        "occasion" : "BridalShower"
       }
     ],
     "HouseWarming": [
@@ -1783,42 +2224,54 @@
         "name": "Vase",
         "price": 49.99,
         "description": "Description for Item 3",
-        "id": 244
+        "id": 244,
+        "category" : "Couple",
+        "occasion" : "HouseWarming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Rugs",
         "price": 59.99,
         "description": "Description for Item 4",
-        "id": 245
+        "id": 245,
+        "category" : "Couple",
+        "occasion" : "HouseWarming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Home decor arts",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 246
+        "id": 246,
+        "category" : "Couple",
+        "occasion" : "HouseWarming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Kitchen essentials",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 247
+        "id": 247,
+        "category" : "Couple",
+        "occasion" : "HouseWarming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Door mat",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 248
+        "id": 248,
+        "category" : "Couple",
+        "occasion" : "HouseWarming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Wines",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 249
+        "id": 249,
+        "category" : "Couple",
+        "occasion" : "HouseWarming"
       }
     ]
   },
@@ -1828,49 +2281,56 @@
       "name": "Card games",
       "price": 199,
       "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
-      "id": 250
+      "id": 250,
+      "category" : "Naughty"
     },
     {
       "image": "./img/flower1.jpg",
       "name": "Sensual card gift",
       "price": 199,
       "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
-      "id": 251
+      "id": 251,
+      "category" : "Naughty"
     },
     {
       "image": "./img/flower1.jpg",
       "name": "Sex toys",
       "price": 199,
       "description": "A timeless classic with a stainless steel case and genuine leather strap. The chronograph function adds versatility, making it perfect for both casual and formal occasions.",
-      "id": 252
+      "id": 252,
+      "category" : "Naughty"
     },
     {
       "image": "./img/flower1.jpg",
       "name": "Sexy wall art",
       "price": 29.99,
       "description": "Description for Item 1",
-      "id": 253
+      "id": 253,
+      "category" : "Naughty"
     },
     {
       "image": "./img/flower1.jpg",
       "name": "Kamasutra book",
       "price": 39.99,
       "description": "Description for Item 2",
-      "id": 254
+      "id": 254,
+      "category" : "Naughty"
     },
     {
       "image": "./img/flower1.jpg",
       "name": "Sensual customized mug",
       "price": 29.99,
       "description": "Description for Item 1",
-      "id": 255
+      "id": 255,
+      "category" : "Naughty"
     },
     {
       "image": "./img/flower1.jpg",
       "name": "Edibles",
       "price": 29.99,
       "description": "Description for Item 1",
-      "id": 256
+      "id": 256,
+      "category" : "Naughty"
     }
   ],
   "Souvenirs": {
@@ -1880,98 +2340,126 @@
         "name": "Plastics",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 257
+        "id": 257,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Jotters",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 258
+        "id": 258,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Keychain",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 259
+        "id": 259,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tumblers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 260
+        "id": 260,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Towers",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 261
+        "id": 261,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Soap holder",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 262
+        "id": 262,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tote bags",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 263
+        "id": 263,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized fridge magnet",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 264
+        "id": 264,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Rechargeable hand fan",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 265
+        "id": 265,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Umbrellas",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 266
+        "id": 266,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Plates",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 267
+        "id": 267,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Wall Clock",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 268
+        "id": 268,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Kitchen utensil",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 269
+        "id": 269,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Torch light",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 270
+        "id": 270,
+        "category" : "Souvenirs",
+        "occasion" : "Birthdays"
       }
     ],
     "Burials": [
@@ -1980,98 +2468,126 @@
         "name": "Plastics",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 271
+        "id": 271,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Jotters",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 272
+        "id": 272,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Keychain",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 273
+        "id": 273,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tumblers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 274
+        "id": 274,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Towers",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 275
+        "id": 275,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Soap holder",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 276
+        "id": 276,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tote bags",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 277
+        "id": 277,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized fridge magnet",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 278
+        "id": 278,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Rechargeable hand fan",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 279
+        "id": 279,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Umbrellas",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 280
+        "id": 280,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Plates",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 281
+        "id": 281,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Wall Clock",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 282
+        "id": 282,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Kitchen utensil",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 283
+        "id": 283,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Torch light",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 284
+        "id": 284,
+        "category" : "Souvenirs",
+        "occasion" : "Burials"
       }
     ],
     "Naming": [
@@ -2080,98 +2596,126 @@
         "name": "Plastics",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 285
+        "id": 285,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Jotters",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 286
+        "id": 286,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Keychain",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 287
+        "id": 287,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tumblers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 288
+        "id": 288,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Towers",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 289
+        "id": 289,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Soap holder",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 290
+        "id": 290,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tote bags",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 291
+        "id": 291,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized fridge magnet",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 292
+        "id": 292,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Rechargeable hand fan",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 293
+        "id": 293,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Umbrellas",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 294
+        "id": 294,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Plates",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 295
+        "id": 295,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Wall Clock",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 296
+        "id": 296,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Kitchen utensil",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 297
+        "id": 297,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Torch light",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 298
+        "id": 298,
+        "category" : "Souvenirs",
+        "occasion" : "Naming"
       }
     ],
     "Graduation": [
@@ -2180,98 +2724,126 @@
         "name": "Plastics",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 299
+        "id": 299,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Jotters",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 300
+        "id": 300,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Keychain",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 301
+        "id": 301,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tumblers",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 302
+        "id": 302,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Towers",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 303
+        "id": 303,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Soap holder",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 304
+        "id": 304,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Tote bags",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 305
+        "id": 305,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Customized fridge magnet",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 306
+        "id": 306,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Rechargeable hand fan",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 307
+        "id": 307,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Umbrellas",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 308
+        "id": 308,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Plates",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 309
+        "id": 309,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Wall Clock",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 310
+        "id": 310,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Kitchen utensil",
         "price": 29.99,
         "description": "Description for Item 1",
-        "id": 311
+        "id": 311,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       },
       {
         "image": "./img/flower1.jpg",
         "name": "Torch light",
         "price": 39.99,
         "description": "Description for Item 2",
-        "id": 312
+        "id": 312,
+        "category" : "Souvenirs",
+        "occasion" : "Graduation"
       }
     ]
   }

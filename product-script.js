@@ -57,10 +57,10 @@ document.addEventListener("DOMContentLoaded", function () {
       const productPrice = document.getElementById("product-price");
       const counterValue = document.getElementById("counter-value");
       const productIdElement = document.getElementById("product-id");
-      // const productCategoryElement =
-      //   document.getElementById("product-category");
-      // const productOccasionElement =
-      //   document.getElementById("product-occasion");
+      const productCategoryElement =
+        document.getElementById("product-category");
+      const productOccasionElement =
+        document.getElementById("product-occasion");
 
       productImage.src = product.image;
       productImage.alt = product.name;
@@ -70,6 +70,8 @@ document.addEventListener("DOMContentLoaded", function () {
       productPrice.textContent = `₦${product.price}`;
 
       productIdElement.textContent = product.id;
+      productCategoryElement.textContent = product.category;
+      productOccasionElement.textContent = product.occasion;
 
       let counter = 0;
       const incrementBtn = document.getElementById("increment-btn");

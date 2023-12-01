@@ -1,15 +1,26 @@
 // Your cart array to store items
 let cart = [];
+let currentCategory = null;
+let currentOccasion = null;
 
 function initializeCart() {
   loadCartFromLocalStorage(); // Initialize the cart from local storage
   updateCartCounter(); // Update the cart counter
 }
 
+
 // Function to open the cart modal
 function openCartModal() {
   const cartModal = document.getElementById("cart-modal");
   cartModal.classList.add("open");
+
+  // Call populateOtherItemsList with the category and occasion from the most recently added item
+  const mostRecentItem = cart[cart.length - 1];
+  const category = mostRecentItem.category;
+  const occasion = mostRecentItem.occasion;
+  populateOtherItemsList(category, occasion);
+
+  // Update the cart items list
   updateCartItemsList();
 }
 
@@ -24,6 +35,10 @@ function addToCart() {
   const productId = document.getElementById("product-id").textContent;
   const productName = document.getElementById("product-name").textContent;
   const productPriceElement = document.getElementById("product-price");
+  const productCategoryElement =
+    document.getElementById("product-category").textContent;
+  const productOccasionElement =
+    document.getElementById("product-occasion").textContent;
 
   const priceString = productPriceElement.textContent.replace(/[^\d.]/g, "");
 
@@ -54,13 +69,18 @@ function addToCart() {
       price: productPrice,
       image: productImage,
       quantity: quantity,
+      category: productCategoryElement,
+      occasion: productOccasionElement,
     });
+    currentCategory = productCategoryElement;
+    currentOccasion = productOccasionElement;
   }
 
   // Update the cart counter, cart display, and save the cart to local storage
   updateCartCounter();
   updateCartItemsList();
   saveCartToLocalStorage();
+
 }
 
 // Function to increase quantity
@@ -115,14 +135,14 @@ function updateCartCounter() {
 
     if (numberOfItemsInCart > 0) {
       cartCounter.textContent = numberOfItemsInCart.toString();
-      cartMessage.style.display = "none"; // Hide the message when there are items in the cart
-      checkoutButton.style.display = "block"; // Show the checkout button
-      clearCartButton.style.display = "block"; // Show the clear cart button
+      cartMessage.style.display = "none";
+      checkoutButton.style.display = "block"; 
+      clearCartButton.style.display = "block"; 
     } else {
       cartCounter.textContent = "0";
-      cartMessage.style.display = "block"; // Display the message when the cart is empty
-      checkoutButton.style.display = "none"; // Hide the checkout button
-      clearCartButton.style.display = "none"; // Hide the clear cart button
+      cartMessage.style.display = "block"; 
+      checkoutButton.style.display = "none"; 
+      clearCartButton.style.display = "none"; 
 
       // Clear local storage when the cart is empty
       localStorage.removeItem("cart");
@@ -130,7 +150,6 @@ function updateCartCounter() {
   }
 }
 
-// Function to update the cart items list
 // Function to update the cart items list
 function updateCartItemsList() {
   const cartItemsList = document.getElementById("cart-items-list");
@@ -151,6 +170,8 @@ function updateCartItemsList() {
       </div>
       <div class="cart-item-details">
         <p>${item.name}</p>
+        <p class="small-text">Category: ${item.category}</p>
+        <p class="small-text">Occasion: ${item.occasion}</p>
         <div class="quantity-controls">
           <button class="quantity-button" onclick="decreaseQuantity('${item.name}')">-</button>
           <span>${item.quantity}</span>
@@ -169,14 +190,16 @@ function updateCartItemsList() {
     cartItemsList.appendChild(listItem);
   });
 
-// Display total cart price
-if (cart.length > 0) {
+  // Display total cart price
+  if (cart.length > 0) {
     // Display total cart price
     const totalCartPriceElement = document.createElement("div");
     totalCartPriceElement.classList.add("total-price"); // Add this line to assign a class
-    totalCartPriceElement.innerHTML = `<p>Total: ₦${totalCartPrice}</p>`;
+    totalCartPriceElement.innerHTML = `<p>Total: ₦${totalCartPrice.toFixed(
+      2
+    )}</p>`;
     cartItemsList.appendChild(totalCartPriceElement);
-  }  
+  }
 }
 
 // Function to open the product page based on item ID
@@ -200,4 +223,127 @@ function loadCartFromLocalStorage() {
   }
 }
 
-window.addEventListener("load", initializeCart);
+// Function to populate other items list based on category and occasion
+function populateOtherItemsList(category, occasion) {
+  const otherItemsList = document.getElementById("other-items-list");
+  // Clear previous content
+  otherItemsList.innerHTML = "";
+
+  // Get the array of items based on the category
+  const itemsInCategory = data[category];
+
+  // Check if itemsInCategory is not undefined
+  if (itemsInCategory) {
+    if (occasion) {
+      // If occasion is specified, directly access the array based on occasion
+      const occasionItems = itemsInCategory[occasion];
+      if (occasionItems) {
+        displayItems(occasionItems, otherItemsList);
+      }
+    } else {
+      // If no occasion is specified, display all items in the category
+      // Convert the object values to an array and display
+      const allItems = Object.values(itemsInCategory).flat();
+      displayItems(allItems, otherItemsList);
+    }
+  }
+}
+
+// Helper function to display items in the list
+function displayItems(items, container) {
+  // Display each item in the other items list
+  items.forEach((item) => {
+    const listItem = document.createElement("li");
+
+    listItem.innerHTML = `
+      <img src="${item.image}" alt="${item.name}" onclick="openProductPage('${item.id}')">
+      <p>${item.name}</p>
+      <p class="other-price">₦${item.price}</p>
+      <p class="hide">${item.category}</p>
+      <p class="hide">${item.occasion}</p>
+      <button onclick="addToCartFromOtherItems('${item.id}', '${item.category}','${item.occasion}')">Add to Cart</button>
+    `;
+
+    container.appendChild(listItem);
+  });
+}
+
+function addToCartFromOtherItems(itemId, category, occasion) {
+  // Check if data[category] exists
+  if (data[category]) {
+    // If it's an array, directly find the item
+    if (Array.isArray(data[category])) {
+      const selectedItem = data[category].find(
+        (item) => item.id === parseInt(itemId)
+      );
+      handleSelectedItem(selectedItem);
+    } else if (typeof data[category] === "object") {
+      // If it's an object, navigate deeper into the structure
+      // Assuming each subcategory has an array of items
+      const subcategories = Object.keys(data[category]);
+      for (const subcategory of subcategories) {
+        const selectedItem = data[category][subcategory].find(
+          (item) => item.id === parseInt(itemId)
+        );
+        if (selectedItem) {
+          handleSelectedItem(selectedItem);
+          break; // Exit the loop if the item is found
+        }
+      }
+    } else {
+      console.error(`Invalid data structure for category ${category}.`);
+    }
+  } else {
+    console.error(`Category ${category} not found.`);
+  }
+
+  function handleSelectedItem(selectedItem) {
+    if (selectedItem) {
+      // Check if the item is already in the cart based on the id
+      const existingItem = cart.find((item) => item.id === selectedItem.id);
+
+      if (existingItem) {
+        // If the item is already in the cart, update the quantity
+        existingItem.quantity += 1;
+      } else {
+        // If the item is not in the cart, add it as a new item
+        cart.push({
+          id: selectedItem.id,
+          name: selectedItem.name,
+          price: selectedItem.price,
+          image: selectedItem.image,
+          quantity: 1,
+          category: category,
+          occasion: occasion,
+        });
+      }
+
+      // Update the cart counter, cart display, and save the cart to local storage
+      updateCartCounter();
+      updateCartItemsList();
+      saveCartToLocalStorage();
+    } else {
+      console.error(
+        `Item with ID ${itemId} not found in category ${category}.`
+      );
+    }
+  }
+}
+
+let data; // Declare the data variable
+
+// Function to fetch data from the JSON file
+async function fetchData() {
+  try {
+    const response = await fetch("data.json"); // Replace with the correct path
+    data = await response.json();
+  } catch (error) {
+    console.error("Error fetching data:", error);
+  }
+}
+
+// Call the fetchData function when the window loads
+window.addEventListener("load", () => {
+  fetchData();
+  initializeCart();
+});
